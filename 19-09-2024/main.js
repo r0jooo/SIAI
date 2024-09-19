@@ -2,7 +2,7 @@
 
 zakupy = new Array("Mleko", "Pieczywo", "Jabłka")
 
-console.log(zakupy.length)
+console.log("Długość listy zakupowej: " + zakupy.length + "\n")
         
 zakupy[1] = "Banan"
         
