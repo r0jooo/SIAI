@@ -8,7 +8,7 @@ if (rain) {
 
 // Zad. 4.1 s. 82
 
-let bool = true;
+let bool = false;
 
 console.log(bool);
 
