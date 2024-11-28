@@ -5,3 +5,16 @@ if (rain) {
 } else {
     console.log("** Wychodząc z domu, nie zabieram parasola **");
 }
+
+// Zad. 4.1 s. 82
+
+let bool = false;
+
+console.log(bool);
+
+if (bool) {
+    console.log("true");
+} else {
+    console.log("false");
+}
+
