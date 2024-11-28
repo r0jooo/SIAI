@@ -1,4 +1,4 @@
-// Zad. 4.1 s. 82
+// 4.1/82
 
 let bool = false;
 
@@ -10,7 +10,9 @@ if (bool) {
     console.log("false");
 }
 
-// Zad. 3.4 s.74
+//////////////////////////////////////////
+
+// 3.4/74
 
 let myCar = {
     make: 'Volkswagen',
@@ -31,7 +33,9 @@ console.log(`Model samochodu: ${myCar.model}`);
 
 console.log(`Na sprzedaż: ${myCar['forSale']}`);
 
-// Zad. 3.3 s. 71
+//////////////////////////////////////////
+
+// 3.3/71
 
 const array = [1, 2, 3];
 const newArray = [array, array, array];
